@@ -1,0 +1,29 @@
+No border 
+
+SR image name id9_thimai - 2.2319347858428955s in CPU
+SR image name id8_thinhan - 2.9821128845214844s in CPU
+SR image name 6_thinguyet - 2.9941565990448s in CPU
+SR image name 5_thanhsu - 2.6229536533355713s in CPU
+SR image name id11_thidiep - 2.9396708011627197s in CPU
+SR image name id10_trana - 2.3955960273742676s in CPU
+SR image name 2_quangchien - 3.4517953395843506s in CPU
+SR image name 4_baduy - 3.426684856414795s in CPU
+SR image name 7_vanphuc - 2.8410463333129883s in CPU
+SR image name 1_thidang - 2.1965346336364746s in CPU
+SR image name 3_vanduc - 2.9631125926971436s in CPU
+
+-------------------------------------------------------------
+
+Have border
+
+SR image name id9_thimai - 3.655940294265747s in CPU
+SR image name id8_thinhan - 4.593475103378296s in CPU
+SR image name 6_thinguyet - 4.246190071105957s in CPU
+SR image name 5_thanhsu - 3.764195442199707s in CPU
+SR image name id11_thidiep - 4.158424377441406s in CPU
+SR image name id10_trana - 3.3680524826049805s in CPU
+SR image name 2_quangchien - 10.241966485977173s in CPU
+SR image name 4_baduy - 10.123321294784546s in CPU
+SR image name 7_vanphuc - 4.144320726394653s in CPU
+SR image name 1_thidang - 3.2961459159851074s in CPU
+SR image name 3_vanduc - 4.403838396072388s in CPU
